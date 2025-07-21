@@ -1,0 +1,107 @@
+Last login: Thu Jul 10 08:56:45 on console
+❯ cd Documents
+❯ ls
+16week-marathon-plan-tomppa.pdf
+CV Kuva.jpg
+CV Tomi Kartaslammi BASE.pdf
+CV Tomi Kartaslammi BASE4.pdf
+CV Tomi Kartaslammi C C++.pdf
+CV Tomi Kartaslammi C++CUBED.pdf
+CV Tomi Kartaslammi ENG BASE.pdf
+CV Tomi Kartaslammi GAME.pdf
+CV Tomi Kartaslammi INC LAP WEB PHO.pdf
+CV Tomi Kartaslammi INCEPTION.pdf
+CV Tomi Kartaslammi JOBS.pdf
+CV Tomi Kartaslammi MINISHELL PYTHON.pdf
+CV Tomi Kartaslammi Pythofull.pdf
+CV Tomi Kartaslammi SUOMI C.pdf
+CV Tomi Kartaslammi SUOMI DATAENG.pdf
+CV Tomi Kartaslammi SUOMI INCEPTION.pdf
+CV Tomi Kartaslammi SUOMIPYTHON.pdf
+CV Tomi Kartaslammi Suomi työkokemus.pdf
+CV Tomi Kartaslammi Suomi.pdf
+CV Tomi Kartaslammi WEBSERV CUBED.pdf
+CV Tomi Kartaslammi WEBSERV PYTHON.pdf
+CV Tomi Kartaslammi Wolt.pdf
+CV Tomi Kartaslammi fullstacksuomi.pdf
+CV Tomi Kartaslammi no pic.pdf
+CV Tomi Kartaslammi python laptrack.pdf
+CV Tomi Kartaslammi web + inception.pdf
+CV Tomi Kartaslammi web phone inc lap.pdf
+CV Tomi Kartaslammi.pdf
+CV Tomi KartaslammiBACK.pdf
+CV Tomi KartaslammiBACKEND.pdf
+CV Tomi KartaslammiCCPP.pdf
+CV Tomi KartaslammiSUOMI.pdf
+Cover Letter Tomi Kartaslammi Cloud.pdf
+Cover Letter Tomi Kartaslammi Kotlin Back end.pdf
+Cover Letter Tomi Kartaslammi NEEWOLD.pdf
+Cover Letter Tomi Kartaslammi dataEngi.pdf
+Cover letter Tomi Kartaslammi BACKEND.pdf
+Cover letter Tomi Kartaslammi BASIC NEW.pdf
+Cover letter Tomi Kartaslammi C++.pdf
+Cover letter Tomi Kartaslammi DIF.pdf
+Cover letter Tomi Kartaslammi Fullstack.pdf
+Cover letter Tomi Kartaslammi PERUS.pdf
+Cover letter Tomi Kartaslammi.pdf
+Cover letter Tomi KartaslammiBaclend.pdf
+Cover letter Tomi KartaslammiBase.pdf
+Cover letter Tomi Kartaslammifullstack.pdf
+Coverletter Tomi Kartaslammi Basic.pdf
+Coverletter Tomi Kartaslammi Cloud.pdf
+Coverletter Tomi Kartaslammi F SECURE.pdf
+Coverletter Tomi Kartaslammi Kone C C++.pdf
+Coverletter Tomi Kartaslammi Nokia.pdf
+Coverletter Tomi Kartaslammi WEBDEV.pdf
+Coverletter Tomi Kartaslammi Wolt.pdf
+Coverletter Tomi Kartaslammi.pdf
+Guess1.jpg
+Guess2.jpg
+Guess3.jpg
+HCR DIPLOMI.pdf
+MongoDb_Info
+Nike-Run-Club-Marathon-Training-Plan-Audio-Guided-Runs.pdf
+Nike1.jpg
+Nike2.jpg
+Personal study plan.pdf
+Saatekirje Pohja.pdf
+Saatekirje Tomi Kartaslammi BACKEEN.pdf
+Saatekirje Tomi Kartaslammi Backend Helen.pdf
+Saatekirje Tomi Kartaslammi Backend.pdf
+Saatekirje Tomi Kartaslammi Integraatio Kesä.pdf
+Saatekirje Tomi Kartaslammi Integraatio.pdf
+Saatekirje Tomi Kartaslammi PERUS.pdf
+Saatekirje Tomi Kartaslammi Yleis.pdf
+Saatekirje Tomi Kartaslammi tietoevry.pdf
+Saatekirje Tomi Kartaslammi.pdf
+Saatekirje_sketch.rtfd
+Tomi-Kartaslammi-FlowCV-Resume-20250118 (1).pdf
+Tomi-Kartaslammi-FlowCV-Resume-20250118.pdf
+Tomi-Kartaslammi-FlowCV-Resume-20250121.pdf
+Tomppa 16-week marathon training plan.pdf
+Tomppa marathon plan.rtf
+Tomppa_Marathon_Training_Plan.pdf
+VirtualBox-7.1.6-167084-OSX.dmg
+admin_school_record_tomi_kartaslammi.pdf
+cub3D.png
+cub3D_clip.mov
+cub3D_trimmed.mov
+marski.pdf
+minishell_trimmed.mov
+runnersworld-marathon-sub-4.pdf
+saatekirje op luonnos.rtfd
+school_record_tkartasl.pdf
+❯ cp CV\ Kuva.jpg ../Projects/Portfolio/assets
+❯ cd ../Projects/Portfolio/assets
+❯ mv CV\ Kuva.jpg CV_kuva.jpg
+❯ ls
+CV_kuva.jpg favicon.ico img
+❯ mv CV_kuva.jpg img
+  GNU nano 8.2                     about_pt1.txt                      Muokattu
+<urses and hobby projects. Learning C & C++ has taught me concepts such as memo>
+
+
+
+I'm a career changer with a background in the logistics industry and am now pursuing a career in software development. I've studied programming at Hive Helsinki coding school, and alongside my studies I've completed online courses and personal projects.
+
+Learning C and C++ has taught me fundamental concepts such as memory management, optimization, and algorithms. In my own time, I've delved into the world of web development, with a particular interest in backend technologies.
